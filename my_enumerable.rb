@@ -1,15 +1,15 @@
 module MyEnumerable
-  def all?()
+  def all?
     each { |item| return false unless yield(item) }
     true
   end
 
-  def any?()
+  def any?
     each { |item| return true if yield(item) }
     false
   end
 
-  def filter()
+  def filter
     array = []
     each { |item| array << item if yield(item) }
     array
