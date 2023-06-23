@@ -1,8 +1,4 @@
 # Enumerable
-## Getting Started
-This repository includes files ruby code on Enumerable and 3 related methods any , filter all:
-
-<a name="readme-top"></a>
 
 # 📗 Table of Contents
 - [📖 \[Enumerable\] ](#-enumerable-)
@@ -37,7 +33,7 @@ This repository includes files ruby code on Enumerable and 3 related methods any
 <details>
 <summary>RUBY</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">Ruby Terminal</a></li>
+    <li><a href="https://guides.rubyonrails.org/">Ruby On Rails</a></li>
   </ul>
 </details>
 
@@ -50,7 +46,6 @@ This repository includes files ruby code on Enumerable and 3 related methods any
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -137,15 +132,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Jawad-Nazari/Enumerables.git).
+Feel free to check the [issues page](https://github.com/Jawad-Nazari/Enumerables/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
